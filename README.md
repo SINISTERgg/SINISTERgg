@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Hoysala M S<br><br>I'm a student passionate about **IoT, Cybersecurity, and Blockchain**, with a strong interest in building secure and decentralized systems.<br><br>## 🚀 About Me<br><br>* 🔐 Interested in **Cybersecurity** and **Blockchain Technologies**<br>* 🌐 Exploring secure authentication, decentralized identity, and Web3 applications<br>* 📚 Continuously learning about IoT security, ethical hacking, smart contracts, and distributed systems<br><br>## 💼 Currently Working On<br><br>* 🆔 **Decentralized Identity Platform (DID)** built on the **Polygon Network**<br><br>  * Self-sovereign identity (SSI)<br>  * Verifiable Credentials (VCs)<br>  * Decentralized Identifiers (DIDs)<br>  * Blockchain-based identity verification<br><br>## 🛠️ Previous Project<br><br>### Multi-Factor Authentication System<br><br>Developed a multi-factor authentication system that combines:<br><br>* 👤 Face Recognition<br>* ⌨️ Keystroke Dynamics<br><br>The project focuses on enhancing user authentication by combining biometric and behavioral authentication methods for improved security.<br><br>## 🌱 Currently Learning<br><br>* Smart Contract Development<br>* Zero-Knowledge Proofs (ZKPs)<br>* Web3 Security<br>* IoT Security<br>* Penetration Testing<br>* Cloud Security<br><br>## 🤝 Let's Connect<br><br>I'm always interested in collaborating on open-source projects related to **Cybersecurity**, **Blockchain**, and **IoT**.<br>
 
-<!--
-**SINISTERgg/SINISTERgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sinistergg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@hoysala1707) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:HOYSALASATHYANARAYANA@GMAIL.COM) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat-square&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat-square&logo=testing-library&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat-square&logo=riotgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat-square&logo=Playstation&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SINISTERgg&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=SINISTERgg&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SINISTERgg&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SINISTERgg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=SINISTERgg&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
