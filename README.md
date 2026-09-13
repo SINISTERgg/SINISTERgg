@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=SINISTERgg&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 
 </div>
@@ -36,21 +38,25 @@ I'm a student passionate about **IoT, Cybersecurity, and Blockchain**, with a st
 ### 🆔 Decentralized Identity Platform (DID) — on the Polygon Network
 
 <table>
-<tr><td>
+<tr>
+<td>
 
 - 🪪 Self-Sovereign Identity (SSI)
 - 📜 Verifiable Credentials (VCs)
 - 🔑 Decentralized Identifiers (DIDs)
 - ⛓️ Blockchain-based identity verification
 
-</td></tr>
+</td>
+</tr>
 </table>
+
+<br>
 
 ## 🗂️ Previous Project
 
 ### 🔒 Multi-Factor Authentication System
 
-A multi-factor authentication system combining **biometric** and **behavioral** signals for stronger, more resilient identity verification:
+A multi-factor authentication system combining **biometric** and **behavioral** signals for stronger, more resilient identity verification.
 
 | Factor | Description |
 |---|---|
@@ -62,12 +68,14 @@ A multi-factor authentication system combining **biometric** and **behavioral** 
 ## 🌱 Currently Learning
 
 <div>
+
 <img src="https://img.shields.io/badge/Smart_Contracts-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Smart Contracts"/>
-<img src="https://img.shields.io/badge/Zero--Knowledge_Proofs-6C3483?style=flat-square&logo=protocols.io&logoColor=white" alt="ZKPs"/>
+<img src="https://img.shields.io/badge/Zero--Knowledge_Proofs-6C3483?style=flat-square&logo=protocols.io&logoColor=white" alt="Zero Knowledge Proofs"/>
 <img src="https://img.shields.io/badge/Web3_Security-1E1E1E?style=flat-square&logo=web3.js&logoColor=white" alt="Web3 Security"/>
 <img src="https://img.shields.io/badge/IoT_Security-00979D?style=flat-square&logo=internet-of-things&logoColor=white" alt="IoT Security"/>
-<img src="https://img.shields.io/badge/Penetration_Testing-CC0000?style=flat-square&logo=hackthebox&logoColor=white" alt="Pentesting"/>
+<img src="https://img.shields.io/badge/Penetration_Testing-CC0000?style=flat-square&logo=hackthebox&logoColor=white" alt="Penetration Testing"/>
 <img src="https://img.shields.io/badge/Cloud_Security-4285F4?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloud Security"/>
+
 </div>
 
 <br>
@@ -76,52 +84,70 @@ A multi-factor authentication system combining **biometric** and **behavioral** 
 
 <details open>
 <summary><b>💻 Languages & Markup</b></summary>
+
 <br>
-<img src="https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/latex-008080?style=flat-square&logo=latex&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
+
 </details>
 
 <details>
 <summary><b>🎨 Frontend</b></summary>
+
 <br>
-<img src="https://img.shields.io/badge/react-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>
-<img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/-TestingLibrary-E33332?style=flat-square&logo=testing-library&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="React Router"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/TestingLibrary-E33332?style=flat-square&logo=testing-library&logoColor=white" alt="Testing Library"/>
+
 </details>
 
 <details>
 <summary><b>🗄️ Backend, Databases & BaaS</b></summary>
+
 <br>
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase-039BE5?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white"/>
-<img src="https://img.shields.io/badge/sqlite-07405e?style=flat-square&logo=sqlite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white" alt="Appwrite"/>
+<img src="https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+
 </details>
 
 <details>
 <summary><b>☁️ Cloud & Deployment</b></summary>
+
 <br>
-<img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/netlify-000000?style=flat-square&logo=netlify&logoColor=00C7B7"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Netlify"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render"/>
+
 </details>
 
 <details>
 <summary><b>🤖 AI/ML & Data</b></summary>
+
 <br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white" alt="SciPy"/>
+
 </details>
 
 <details>
 <summary><b>🔧 Hardware & Design</b></summary>
+
 <br>
-<img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"/>
-<img src="https://img.shields.io/badge/nVIDIA-76B900?style=flat-square&logo=nVIDIA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi"/>
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nVIDIA&logoColor=white" alt="NVIDIA"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white" alt="Canva"/>
+
 </details>
 
 <br>
@@ -129,10 +155,12 @@ A multi-factor authentication system combining **biometric** and **behavioral** 
 ## 🎮 When I'm Not Coding
 
 <div>
-<img src="https://img.shields.io/badge/steam-000000?style=flat-square&logo=steam&logoColor=white"/>
-<img src="https://img.shields.io/badge/riotgames-D32936?style=flat-square&logo=riotgames&logoColor=white"/>
-<img src="https://img.shields.io/badge/PSN-0070D1?style=flat-square&logo=Playstation&logoColor=white"/>
-<img src="https://img.shields.io/badge/epicgames-313131?style=flat-square&logo=epicgames&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Steam"/>
+<img src="https://img.shields.io/badge/Riot_Games-D32936?style=flat-square&logo=riotgames&logoColor=white" alt="Riot Games"/>
+<img src="https://img.shields.io/badge/PSN-0070D1?style=flat-square&logo=Playstation&logoColor=white" alt="PlayStation"/>
+<img src="https://img.shields.io/badge/Epic_Games-313131?style=flat-square&logo=epicgames&logoColor=white" alt="Epic Games"/>
+
 </div>
 
 <br>
@@ -142,22 +170,33 @@ A multi-factor authentication system combining **biometric** and **behavioral** 
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=SINISTERgg&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SINISTERgg&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="42%" alt="Top Languages"/>
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com/?user=SINISTERgg&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
+<br>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=SINISTERgg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+
 </div>
+
+<br>
 
 ## ✍️ Random Dev Quote
 
 <div align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
 </div>
 
 <br>
@@ -167,36 +206,66 @@ A multi-factor authentication system combining **biometric** and **behavioral** 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SINISTERgg/SINISTERgg/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SINISTERgg/SINISTERgg/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SINISTERgg/SINISTERgg/output/github-contribution-grid-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SINISTERgg/SINISTERgg/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SINISTERgg/SINISTERgg/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/SINISTERgg/SINISTERgg/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </picture>
 
-</div>
+<br>
 
-> ⚙️ This animates once the `snake.yml` workflow (included alongside this README) has run at least once in your **`SINISTERgg/SINISTERgg`** profile repo — see setup notes below.
+<sub>🐍 Automatically generated from my GitHub contribution graph.</sub>
+
+</div>
 
 <br>
 
 ## 🤝 Let's Connect & Collaborate
 
-I'm always interested in collaborating on open-source projects related to **Cybersecurity**, **Blockchain**, and **IoT**. Feel free to reach out on [LinkedIn](https://linkedin.com/in/Sinistergg), [X](https://x.com/hoysala1707), or drop me an [email](mailto:HOYSALASATHYANARAYANA@GMAIL.COM).
+I'm always interested in collaborating on open-source projects related to **Cybersecurity**, **Blockchain**, and **IoT**.
+
+Feel free to reach out through:
+
+<a href="https://linkedin.com/in/Sinistergg">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://x.com/hoysala1707">
+  <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
+</a>
+
+<a href="mailto:HOYSALASATHYANARAYANA@GMAIL.COM">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
 
 <div align="center">
 
-⭐️ *Thanks for stopping by!*
+⭐️ <i>Thanks for stopping by!</i>
 
 </div>
 
-<details>
-<summary>⚙️ Snake workflow setup (one-time, do this after uploading)</summary>
 <br>
 
-1. Place the included `snake.yml` file at `.github/workflows/snake.yml` in your `SINISTERgg/SINISTERgg` repo (create the folders if they don't exist).
-2. Go to **Settings → Actions → General → Workflow permissions** in that repo and select **Read and write permissions**, then save.
-3. Go to the **Actions** tab and manually run the "Generate Snake" workflow once (or push a commit — it also runs automatically every day).
-4. After it finishes, it creates an `output` branch with the generated SVGs, and the snake above will render automatically.
+<details>
+<summary>⚙️ Contribution Snake Setup</summary>
 
-</details>
+<br>
 
-<!-- Proudly enhanced from a template originally built with GPRM (https://gprm.itsvg.in) -->
+The contribution snake is generated automatically using GitHub Actions.
+
+### One-time setup
+
+1. Make sure the workflow exists at:
+
+```text
+.github/workflows/snake.yml
